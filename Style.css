@@ -226,6 +226,10 @@ a {
 	padding-top: 0.5rem;
 }
 
+#SingleCard {
+	margin-bottom: 40px;
+}
+
 img {
 	width:100%;
 	background: url(https://dummyimage.com/100/fff/0011ff.png&text=Image+Not+Found) no-repeat scroll 0 0;
